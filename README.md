@@ -12,7 +12,4 @@ Por este motivo, se envia las fuentes y se adjunta capturas de la aplicación co
 
 ## Demo App:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xJCMiWR3HQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://www.youtube.com/watch?v=8xJCMiWR3HQ
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xJCMiWR3HQ/0.jpg)](https://www.youtube.com/watch?v=8xJCMiWR3HQ)
