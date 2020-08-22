@@ -1,4 +1,4 @@
-# hdl-app
+# ImpulseWoman
 Aplicación que busca impulsar la economía de las mujeres a nivel mundial.
 
 Especificaciones técnicas:
