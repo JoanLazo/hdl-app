@@ -33,6 +33,7 @@
 		A169AD7324F0FBD3009EC471 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A169AD6024F0FBD3009EC471 /* Poppins-BoldItalic.ttf */; };
 		A169AD7424F0FBD3009EC471 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A169AD6124F0FBD3009EC471 /* Poppins-Light.ttf */; };
 		A169AD7524F0FBD3009EC471 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A169AD6224F0FBD3009EC471 /* Poppins-Italic.ttf */; };
+		A169AD7724F102CE009EC471 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A169AD7624F102CE009EC471 /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		A169AD6024F0FBD3009EC471 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
 		A169AD6124F0FBD3009EC471 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
 		A169AD6224F0FBD3009EC471 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		A169AD7624F102CE009EC471 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				A169AD4224F0F297009EC471 /* Assets.xcassets */,
 				A169AD4424F0F297009EC471 /* LaunchScreen.storyboard */,
 				A169AD4724F0F297009EC471 /* Info.plist */,
+				A169AD7624F102CE009EC471 /* RoundButton.swift */,
 			);
 			path = "hdl-impulseWoman";
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A169AD3E24F0F294009EC471 /* ViewController.swift in Sources */,
+				A169AD7724F102CE009EC471 /* RoundButton.swift in Sources */,
 				A169AD3A24F0F294009EC471 /* AppDelegate.swift in Sources */,
 				A169AD3C24F0F294009EC471 /* SceneDelegate.swift in Sources */,
 				A169AD4F24F0FBB1009EC471 /* pruebaViewController.swift in Sources */,
