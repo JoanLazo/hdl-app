@@ -36,7 +36,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Next"/>
                                 <connections>
-                                    <action selector="nextButton:" destination="0qR-bY-6R6" eventType="touchUpInside" id="uss-kq-RHU"/>
+                                    <segue destination="eWR-G5-50Y" kind="custom" id="1uN-66-iv0"/>
                                 </connections>
                             </button>
                             <pageControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="aK6-5e-2i5">
@@ -61,12 +61,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="BU8-lW-jg6"/>
                     </view>
-                    <connections>
-                        <outlet property="imageView" destination="sEz-YS-fdZ" id="u3x-qt-Nqq"/>
-                        <outlet property="nextButton" destination="1PV-0Y-Yah" id="VYV-AN-CAG"/>
-                        <outlet property="pageControl" destination="aK6-5e-2i5" id="RWl-52-jix"/>
-                        <outlet property="scrollView" destination="XZH-T4-RUp" id="4re-Zf-XLi"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gTl-kc-bf1" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -75,7 +69,7 @@
         <!--Title-->
         <scene sceneID="HBN-Xy-ZDT">
             <objects>
-                <viewController id="eWR-G5-50Y" sceneMemberID="viewController">
+                <viewController id="eWR-G5-50Y" customClass="ViewController" customModule="hdl_impulseWoman" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="slr-c1-4vc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
