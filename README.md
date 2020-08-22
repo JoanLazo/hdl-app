@@ -12,4 +12,6 @@ Por este motivo, se envia las fuentes y se adjunta capturas de la aplicación co
 
 ## Demo App:
 
+Comienza a compilar desde el segundo 0.50
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xJCMiWR3HQ/0.jpg)](https://www.youtube.com/watch?v=8xJCMiWR3HQ)
